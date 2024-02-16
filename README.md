@@ -1,6 +1,6 @@
 
 # Forggith Sales and Marketing Power BI Reporting
-[Certification](https://training.foresightbi.com.ng/certificates/62asdecpfi)
+😎[Certification](https://training.foresightbi.com.ng/certificates/62asdecpfi)😎
 ## Overview
 
 Forggith utilizes Power BI for reporting and analysis of sales and marketing data to achieve its business objectives. This repository contains the specifications and requirements for creating Power BI reports to track sales and marketing performance.
